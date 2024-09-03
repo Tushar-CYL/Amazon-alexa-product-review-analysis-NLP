@@ -36,12 +36,7 @@ Installation
 To run this project locally, follow these steps:
 
 Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/amazon-alexa-review-analysis.git
 Navigate to the project directory:
-bash
-Copy code
 cd amazon-alexa-review-analysis
 Install the required packages:
 bash
